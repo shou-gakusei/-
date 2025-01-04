@@ -1,0 +1,5 @@
+numpy
+matplotlib
+scipy
+openpyxl
+# pip install -r requirements.txt
